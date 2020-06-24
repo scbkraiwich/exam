@@ -1,0 +1,25 @@
+
+V
+java:S46848"@Replace this persistent entity with a simple POJO or DTO object.(àà¡¡
+c
+java:S44887"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(ÿ†’›ùÿÿÿÿ
+<
+java:S14528"&Remove usage of generic wildcard type.(àà¡¡
+Y
+java:S1155*">Use isEmpty() to check whether the collection is empty or not.(”Æ¡éûÿÿÿÿ
+^
+java:S4488'"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Í¼à•
+<
+java:S1452?"&Remove usage of generic wildcard type.(³Á°‰
+<
+java:S14522"&Remove usage of generic wildcard type.(—í÷É
+V
+java:S46842"@Replace this persistent entity with a simple POJO or DTO object.(—í÷É
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+<
+java:S1452"&Remove usage of generic wildcard type.(É°ðü
+<
+java:S1452("&Remove usage of generic wildcard type.(ì‚«ù
+e
+java:S44881"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ßƒµ¢þÿÿÿÿ
