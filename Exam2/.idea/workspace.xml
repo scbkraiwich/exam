@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe7edfdc-e47e-4d4e-bb77-681a6d75abf2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer/.idea/sonarlint/issuestore/0/6/06b3fc95b95c8809237e2d9aba69a91ff625e91e" beforeDir="false" afterPath="$PROJECT_DIR$/../customer/.idea/sonarlint/issuestore/0/6/06b3fc95b95c8809237e2d9aba69a91ff625e91e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer/.idea/sonarlint/issuestore/0/8/082c663cfd88f0c60c8ce0020593ad112318dfa9" beforeDir="false" afterPath="$PROJECT_DIR$/../customer/.idea/sonarlint/issuestore/0/8/082c663cfd88f0c60c8ce0020593ad112318dfa9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer/.idea/sonarlint/issuestore/1/0/10689cdebef6b89db2fa40bae6923110b35e2d2b" beforeDir="false" afterPath="$PROJECT_DIR$/../customer/.idea/sonarlint/issuestore/1/0/10689cdebef6b89db2fa40bae6923110b35e2d2b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer/.idea/sonarlint/issuestore/d/8/d886a3f11f159b2ca47d393d64d814d8b14f34e0" beforeDir="false" afterPath="$PROJECT_DIR$/../customer/.idea/sonarlint/issuestore/d/8/d886a3f11f159b2ca47d393d64d814d8b14f34e0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer/.idea/sonarlint/issuestore/e/6/e60ed007f0744653c157be505275d19ca1a7264e" beforeDir="false" afterPath="$PROJECT_DIR$/../customer/.idea/sonarlint/issuestore/e/6/e60ed007f0744653c157be505275d19ca1a7264e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer/.idea/sonarlint/issuestore/f/d/fd1ddfd1c2541cd6eb27381528cdb95d01da8ce8" beforeDir="false" afterPath="$PROJECT_DIR$/../customer/.idea/sonarlint/issuestore/f/d/fd1ddfd1c2541cd6eb27381528cdb95d01da8ce8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../customer/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1dkxyObAHKnYL3VLJBZGiAbXLia" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <module name="Exam2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe7edfdc-e47e-4d4e-bb77-681a6d75abf2" name="Default Changelist" comment="" />
+      <created>1592983145534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592983145534</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom" timestamp="1592984540447">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1592984540447" />
+    <state width="1398" height="204" key="GridCell.Tab.0.center" timestamp="1592984540446">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1592984540446" />
+    <state width="1398" height="204" key="GridCell.Tab.0.left" timestamp="1592984540446">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1592984540446" />
+    <state width="1398" height="204" key="GridCell.Tab.0.right" timestamp="1592984540446">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1592984540446" />
+  </component>
+</project>
